@@ -1,8 +1,8 @@
 > Simple Javascript Games
 ## Check The Games Here
-- 2D BreakOut [Click Here](https://duckduckgo.com).
-- Space Invaders [Click Here](https://duckduckgo.com).
-- WhackAMole [Click Here](https://duckduckgo.com).
+- 2D BreakOut [Click Here](https://vishudhiman.github.io/JsGames/2dBreakout).
+- Space Invaders [Click Here](https://vishudhiman.github.io/JsGames/spaceInvaders).
+- WhackAMole [Click Here](https://vishudhiman.github.io/JsGames/whackAMole).
 
 ## Tech Stack Used
 - HTML
